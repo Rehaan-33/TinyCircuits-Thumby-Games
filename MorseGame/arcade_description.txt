@@ -1,0 +1,1 @@
+Learn Morse code and test yourself on the Thumby. In LEARN mode, flip through A-Z and press A to hear and see each letter. In PLAY mode, a letter is flashed and beeped once, and you have to key it back from memory. Tap A for a dot, hold it for a dash, press B to submit, and use the D-pad to clear. Four wrong answers and it’s game over.
